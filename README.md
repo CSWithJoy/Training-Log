@@ -6,6 +6,7 @@
 * Plan_Z: njzwj, leoloveacm, WelkinYang
 
 # Training Log
+* [Week-06-Coding-Training](https://github.com/CSWithJoy/Week-06-Coding-Training)
 
 * [Week-05-Coding-Training](https://github.com/CSWithJoy/Week-05-Coding-Training), [vjudge](http://acm.hust.edu.cn/vjudge/contest/view.action?cid=116057#overview)
 * [Week-03-04-Coding-Training](https://github.com/CSWithJoy/Week-03-04-Coding-Training), [vjudge](http://acm.hust.edu.cn/vjudge/contest/view.action?cid=114291#overview)
