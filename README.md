@@ -6,6 +6,8 @@
 * Plan_Z: njzwj, leoloveacm, WelkinYang
 
 # Training Log
+* [Week-09-Coding-Training](https://github.com/CSWithJoy/Week-09-Coding-Training)
+
 * [Week-08-Coding-Training](https://github.com/CSWithJoy/Week-08-Coding-Training)
 
 * [Week-07-Coding-Training](https://github.com/CSWithJoy/Week-07-Coding-Training)
