@@ -8,7 +8,7 @@
 # Training Log
 * [Week-09-Coding-Training](https://github.com/CSWithJoy/Week-09-Coding-Training)
 
-* [Week-08-Coding-Training](https://github.com/CSWithJoy/Week-08-Coding-Training)
+* [Week-08-Coding-Training](https://github.com/CSWithJoy/Week-08-Coding-Training), [vjudge](http://acm.hust.edu.cn/vjudge/contest/view.action?cid=118301#overview)
 
 * [Week-07-Coding-Training](https://github.com/CSWithJoy/Week-07-Coding-Training)
 
